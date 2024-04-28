@@ -172,7 +172,7 @@ if nse == 5:
     typex = "BSE:"
     kk = "bse_fo"  
     PP = "BFO:"
-    hh = "29APR"
+    hh = "24429"
 
 
 
