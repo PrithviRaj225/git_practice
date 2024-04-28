@@ -125,7 +125,7 @@ pe_traded_status = 0
 trade_type = 1
 print(" hi have a good day and  i have logged")
 
-nse = 4
+nse = 5
 
 
 if nse == 1:
